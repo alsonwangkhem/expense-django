@@ -1,0 +1,8 @@
+# Environment Variables
+.env
+
+# SQLite database (if still in use)
+db.sqlite3
+
+# Static files
+/staticfiles/
